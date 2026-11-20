@@ -1,0 +1,24 @@
+# Environment
+.venv/
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Database files
+*.db
+*.sqlite3
+
+# Student data - do not upload
+data/
+*.zip
+
+# Excel files - review before uploading
+*.xlsx
