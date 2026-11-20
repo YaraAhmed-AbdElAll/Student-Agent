@@ -4,3 +4,4 @@ pytest
 langchain-core
 langchain-google-genai
 langgraph
+langchain-groq==1.2.1
